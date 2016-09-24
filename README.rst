@@ -1,8 +1,6 @@
 .. _readme:
 
 .. image:: golden-retriever.jpg
-   :height: 333 px
-   :width: 444 px
 
 Fetches event data from DalmatinerDB. Currently works with syslog format logs sent into DalmatinerDB via
 the proxy.
