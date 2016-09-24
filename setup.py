@@ -24,7 +24,7 @@ def get_version():
     return VERSION
 
 
-dependencies = ['click', 'requests', 'pyyaml']
+dependencies = ['click', 'requests', 'pyyaml', 'Pygments']
 
 setup(
     name='golden-retriever',
