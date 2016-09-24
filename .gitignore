@@ -9,7 +9,7 @@ docs/_build
 .eggs
 .coverage
 .idea
-golden-retriever.egg-info/
+golden_retriever.egg-info/
 coverage.xml
 nosetests.xml
 index.html

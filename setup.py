@@ -27,7 +27,7 @@ def get_version():
 dependencies = ['click', 'requests', 'pyyaml']
 
 setup(
-    name='Golden Retriever',
+    name='golden-retriever',
     version=get_version(),
     url='https://github.com/dataloop/golden-retriever',
     download_url="https://github.com/dataloop/golden-retriever/tarball/v" + get_version(),

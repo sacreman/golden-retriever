@@ -9,7 +9,7 @@ install golden-retriever using pip
 
     pip install golden-retriever
 
-set your url in  ~/.golden-retriever.yaml
+set the url in  ~/.golden-retriever.yaml to match the DalmatinerDB front end address and port
 
 .. code-block:: none
 
