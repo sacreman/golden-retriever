@@ -8,7 +8,7 @@ the proxy.
 `Usage`_
 ----------------------------
 
-Golden Retriever has built in help. Just type `gr` after installation. To search log file simply type `gr search`
+Golden Retriever has built in help. Just type `gr` after installation. To search for all events in the last 2 hours simply type `gr search`
 or alternatively you can start to filter log messages based on regular expressions.
 
 .. code-block:: none
