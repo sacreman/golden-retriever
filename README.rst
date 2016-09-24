@@ -1,6 +1,8 @@
 .. _readme:
 
 .. image:: golden-retriever.jpg
+  :height: 333px
+  :width: 444px
 
 `Quick Example`_
 ----------------------------
