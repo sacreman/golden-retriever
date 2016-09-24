@@ -24,9 +24,9 @@ or alternatively you can start to filter log messages based on regular expressio
 `Future`_
 ----------------------------
 
-Enabling colours
-Live tail
-Better search functionality and more options
+- Enabling colours
+- Live tail
+- Better search functionality and more options
 
 
 `Installation`_
