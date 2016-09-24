@@ -12,6 +12,7 @@ Golden Retriever has built in help. Just type `gr` after installation. To search
 or alternatively you can start to filter log messages based on regular expressions.
 
 .. code-block:: none
+
     $ gr search 'severity == info AND body ~= root'
     2016-09-24 19:39:35 gcenagiosn0 info authpriv pam_unix(cron:session):session closed for user root
     2016-09-24 19:40:01 gcenagiosn0 info authpriv pam_unix(cron:session):session opened for user root by (uid=0)
