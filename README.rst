@@ -1,5 +1,7 @@
 .. _readme:
 
+.. image:: golden-retriever.jpg
+
 `Quick Example`_
 ----------------------------
 
