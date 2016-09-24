@@ -23,7 +23,7 @@ def search(filter, format, period):
             line = ''
             for field in fields:
                 try:
-                    line += e['event'][field] + ' '
+                    line += str(e['event'][field]) + ' '
                 except KeyError:
                     missing_field = True
             print line
